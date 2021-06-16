@@ -1,4 +1,4 @@
-<p align="left"><img src="header.jpg" width="600"\></p>
+<p align="left"><img src="header.jpg" width="750"\></p>
 
 Please cite
 Patterns 2, 100292, July 9, 2021
