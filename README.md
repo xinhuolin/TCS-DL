@@ -1,4 +1,4 @@
-<p align="left"><img src="header.jpg" width="750"\></p>
+<p align="left"><img src="header.jpg" width="800"\></p>
 
 Please cite
 
