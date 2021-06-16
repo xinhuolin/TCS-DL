@@ -1,3 +1,5 @@
+<p align="left"><img src="header.jpg" width="600"\></p>
+
 Please cite
 Patterns 2, 100292, July 9, 2021
 https://doi.org/10.1016/j.patter.2021.100292
