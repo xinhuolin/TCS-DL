@@ -1,5 +1,5 @@
-the data can be got by the link https://1drv.ms/u/s!Au_cHqZBKiu2gt83vtq388bmzxQYBw?e=uBXo4S.
-Due to the data is too large, we only upload the training data and mask for B=30. if you want to test B=10 or 20, just slice data to B=10 or 20.
+The data can be retrieved from https://1drv.ms/u/s!Au_cHqZBKiu2gt83vtq388bmzxQYBw?e=uBXo4S or http://temimagenet.ps.uci.edu/
+Because the data is very large, we only upload the training data and mask for B=30. if you want to test for B=10 or 20, you can slice data to B=10 or 20.
 
 Usage:
 1.Change the corresponding path of mask in the file 'dataLoadess.py' on line 32.
