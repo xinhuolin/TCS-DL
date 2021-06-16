@@ -13,5 +13,4 @@ Usage:
 3.Change the compress_rate you want run in the file 'train.py' on line 32. 
 4.Run the file 'train.py'
 
-Acknowledgement:
-Office of Basic Energy Sciences of the U.S. Department of Energy, award no. DE-SC0021204
+
